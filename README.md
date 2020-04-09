@@ -1,6 +1,11 @@
 # BANA8090_project
 Final Project for Python for Data Science Course
 
+Name: Shubham Gupta
+
+#M: M13419521
+
+class BANA8090 002
 
 The datasets contains transactions made by credit cards in September 2013 by european cardholders. 
 The dataset has two separate files which we will use to apply all the skills which we learnt during the course.
